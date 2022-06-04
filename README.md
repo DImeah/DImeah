@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DImeah
 - 👀 I’m interested in learning new things everyday in topics ranging from Software Development, Data Science, Web Dev, Embedded Systems
-- 🌱 I’m currently learning Fullstack Java Development, Data Science
+- 🌱 I’m currently learning Fullstack Python (MERN), Java Development, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me imeahd@gmail.com
 
