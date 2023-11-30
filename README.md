@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @DImeah
+## 👋 Hi, I’m Dornu Imeah
 - 👀 I’m interested in learning new things every day in topics ranging from Software Development, Data Science, Web Dev, Embedded Systems
 - 🌱 I am a Full-stack Engineer capable of spinning up solutions using Java, Python, JavaScript, React, Spring Boot, Next.js, NestJs, and HTML/CSS
 - I'm more focused on building creative web applications and efficient solutions to complex technical challenges.
