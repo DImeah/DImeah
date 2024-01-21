@@ -12,7 +12,8 @@
 <a href="https://www.linkedin.com/in/dornubari-imeah-8a9928ab/" ><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/ImeahD" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href=""><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%2312100E.svg?&style=for-the-badge&logo=superuser&logoColor=white"></a>
-<a href=""><img alt="Portfolio" src="[https://img.shields.io/badge/portfolio-%2312100E.svg?&style=for-the-badge&logo=superuser&logoColor=white](https://badgr.com/public/assertions/OFDyASRZR7iDaqbjGDkfHg?identity__email=imeahdornu@gmail.com)">API Badge</a>
+<a href=""><img alt="Postman API Badge" src="https://badgr.com/public/assertions/OFDyASRZR7iDaqbjGDkfHg?identity__email=imeahdornu@gmail.com&style=for-the-badge&logo=superuser&logoColor=white"></a>
+
 
 ---
 
